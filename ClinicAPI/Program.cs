@@ -1,5 +1,4 @@
 using Clinic.API.Context;
-using ClinicAPI.Routes;
 using System.Runtime.CompilerServices;
 using Microsoft.EntityFrameworkCore;
 using Clinic.API.Context.Seed;
